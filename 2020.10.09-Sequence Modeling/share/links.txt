@@ -1,0 +1,19 @@
+Zhanyu Si:
+https://zhuanlan.zhihu.com/p/188400946?utm_source=qq&utm_medium=social&utm_oi=973686550244159488
+
+https://github.com/locuslab/TCN
+
+https://zhuanlan.zhihu.com/p/232650092
+
+https://blog.csdn.net/hia_hia_hia/article/details/83014688
+
+------------------------------------------------------------------------------------------
+
+Zhentao Liu:
+1. https://dblp.org/db/conf/aaai/aaai2020.html  2020AAAI录用论文汇总
+ https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf   2020AAAI 录用论文题目汇总
+2. https://openaccess.thecvf.com/CVPR2020_search  2020CVPR录用论文汇总
+3. https://germain-forestier.info/publis/aaltd2018invitedtalk.pdf  第三届ECML / PKDD研讨会，高级分析和时间数据学习
+4. https://github.com/facebook/prophet      facebook 时间序列预测算法Prophet
+5. Chalapathy R, Chawla S. Deep learning for anomaly detection: A survey[J]. arXiv preprint arXiv:1901.03407, 2019.  2019年的文章，异常检测总结超全
+大家好，这是我这次会议的内容总结，可以通过上面的内容查找到这次汇报的大部分内容（部分可能需要翻墙）。[拥抱]
